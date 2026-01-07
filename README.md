@@ -29,7 +29,7 @@ A responsive React app that allows users to search for cities worldwide and view
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/geo-weather-dashboard.git
+git clone https://github.com/BlessedSiden1234/GeoWeatherDashboard.git
 cd geo-weather-dashboard
 
 ```
